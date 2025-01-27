@@ -77,7 +77,19 @@ Auto (Recommended)
 <img src="./assets/s10.png" alt="bind github account" width="200" height="400">
 
 
-# You may need to restart your device after the process to take action! <img src="./assets/sy.png" alt="bind github account" width="25" height="25">
+
+## You may need to restart your device after the process to take action! <img src="./assets/sy.png" alt="bind github account" width="25" height="25">
+
+
+# You can support me by donating! 💲
+
+## Bitcoin:
+```
+bc1qkfmhs5y6sxs0gknl8ussf4avaz5uun4sqtmj09
+```
+
+### Thank you!
+
 
 
 
