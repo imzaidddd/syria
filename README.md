@@ -77,6 +77,9 @@ Auto (Recommended)
 <img src="./assets/s10.png" alt="bind github account" width="200" height="400">
 
 
+# You may need to restart your device after the process to take action! <img src="./assets/sy.png" alt="bind github account" width="25" height="25">
+
+
 
 
 
